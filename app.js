@@ -18,3 +18,4 @@ switch(accion) {
     console.log('Accion no soportada')
 }
 let hola;
+let cambio;
